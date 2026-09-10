@@ -2,68 +2,22 @@
   "schema_version": 2,
   "game": "NBA 2K26",
   "database_version": "2.0.0",
-  "last_updated": "2026-09-10T00:00:00Z",
-  "status": "AUTO-SOURCE-MASTER-SEED",
-  "note": "Initial package; GitHub Actions refresh replaces seed animation/jumpshot/badge catalogs with source-scraped master data and has minimum-count safety gates.",
+  "last_updated": "2026-09-10T07:11:39Z",
+  "status": "AUTO-SOURCE-MASTER",
   "counts": {
-    "animations.json": 45,
-    "jumpshots.json": 135,
+    "animations.json": 868,
+    "jumpshots.json": 611,
     "badges.json": 40
   },
   "files": {
-    "sources.json": {
-      "sha256": "581db392545f711b96a5be23518d1071c1f91f5e7b9ca781f37fdb1d767c22e0"
+    "animations/master.json": {
+      "sha256": "9836720e4e3fee65a06acc9013830305c371a196ddb4e8cfa34442506f425ca7"
     },
-    "badges.json": {
-      "sha256": "8da87073d0d070a46825743759c2abcd5f83069ed589b901f53a521f2a2acacd"
+    "jumpshots/master.json": {
+      "sha256": "0dab2f88a3bde97e3c8f9f9dfb09b0bdafb7f32f8d84513434cb2166505e0513"
     },
-    "cap_breakers.json": {
-      "sha256": "3664b04d0ff46faf27027c801dd234a029e940089a34c68cc3d23c8da322f039"
-    },
-    "feature_manifest.json": {
-      "sha256": "09ea34a93c2a2e44682b96847bb90e797da96328ce03780f350670d8c9b046ec"
-    },
-    "hidden_builds.json": {
-      "sha256": "1cf58034293635c7c9b38d3e9eb195e9fa83c02d984ea7b4ac0830fff60e5e5a"
-    },
-    "jumpshots.json": {
-      "sha256": "885d14e60d86713b1255a47ccec137e1ebcb5f7e967319e120be5c004499f193"
-    },
-    "animations.json": {
-      "sha256": "28e9e9152116f438a0dd2565e79ece86f9899e863ddd80a02204635d28af40f8"
-    },
-    "cap_breaker_research.json": {
-      "sha256": "bfd20e493408351326872bea5a8b0a345decc40c200de69e7da7ffff3535ef1a"
-    },
-    "build_catalog.json": {
-      "sha256": "15d85d037e1c75c0eb079019f18973e4927b91ec00bf0de63e1f2e65722c2fca"
-    },
-    "specializations.json": {
-      "sha256": "01c72d97d43ebc5fed5a2060e7c3be341cdb9bc5c249c46843ac500824f4e7f2"
-    },
-    "intelligence_tips.json": {
-      "sha256": "9f2f931c808f2261d4fccb947f3b087aa366b3f301c3bcbf9571553b9905eed8"
-    },
-    "master_sources.json": {
-      "sha256": "36204532fdfcca2b03987333410406cb765c7e8e6fdd6fdbfcb7862f0fd550ec"
-    },
-    "catalog_completeness.json": {
-      "sha256": "aa76235aab513485892854d121e7e16244aef0f179427f132b36cee15737310e"
-    },
-    "cap_breaker_sources.json": {
-      "sha256": "1a65b438ebcdc349117bbb5407dd3f43607ba9fa4e7a3ff42c317c8512c8d55c"
-    },
-    "sources/sources.json": {
-      "sha256": "581db392545f711b96a5be23518d1071c1f91f5e7b9ca781f37fdb1d767c22e0"
-    },
-    "sources/feature_manifest.json": {
-      "sha256": "09ea34a93c2a2e44682b96847bb90e797da96328ce03780f350670d8c9b046ec"
-    },
-    "sources/master_sources.json": {
-      "sha256": "36204532fdfcca2b03987333410406cb765c7e8e6fdd6fdbfcb7862f0fd550ec"
-    },
-    "sources/catalog_completeness.json": {
-      "sha256": "aa76235aab513485892854d121e7e16244aef0f179427f132b36cee15737310e"
+    "badges/master.json": {
+      "sha256": "48b0fcce59d1d4a90d57059d3ee70a5cb719f4b10be845efa2785379d933451c"
     },
     "builds/master.json": {
       "sha256": "15d85d037e1c75c0eb079019f18973e4927b91ec00bf0de63e1f2e65722c2fca"
@@ -71,20 +25,32 @@
     "builds/hidden_builds.json": {
       "sha256": "1cf58034293635c7c9b38d3e9eb195e9fa83c02d984ea7b4ac0830fff60e5e5a"
     },
-    "tips/master.json": {
-      "sha256": "9f2f931c808f2261d4fccb947f3b087aa366b3f301c3bcbf9571553b9905eed8"
+    "cap_breakers/master.json": {
+      "sha256": "3664b04d0ff46faf27027c801dd234a029e940089a34c68cc3d23c8da322f039"
     },
     "cap_breakers/sources.json": {
       "sha256": "1a65b438ebcdc349117bbb5407dd3f43607ba9fa4e7a3ff42c317c8512c8d55c"
     },
+    "cap_breakers/specializations.json": {
+      "sha256": "01c72d97d43ebc5fed5a2060e7c3be341cdb9bc5c249c46843ac500824f4e7f2"
+    },
     "cap_breakers/research.json": {
       "sha256": "bfd20e493408351326872bea5a8b0a345decc40c200de69e7da7ffff3535ef1a"
     },
-    "cap_breakers/master.json": {
-      "sha256": "3664b04d0ff46faf27027c801dd234a029e940089a34c68cc3d23c8da322f039"
+    "tips/master.json": {
+      "sha256": "9f2f931c808f2261d4fccb947f3b087aa366b3f301c3bcbf9571553b9905eed8"
     },
-    "cap_breakers/specializations.json": {
-      "sha256": "01c72d97d43ebc5fed5a2060e7c3be341cdb9bc5c249c46843ac500824f4e7f2"
+    "sources/master_sources.json": {
+      "sha256": "36204532fdfcca2b03987333410406cb765c7e8e6fdd6fdbfcb7862f0fd550ec"
+    },
+    "sources/sources.json": {
+      "sha256": "581db392545f711b96a5be23518d1071c1f91f5e7b9ca781f37fdb1d767c22e0"
+    },
+    "sources/catalog_completeness.json": {
+      "sha256": "aa76235aab513485892854d121e7e16244aef0f179427f132b36cee15737310e"
+    },
+    "sources/feature_manifest.json": {
+      "sha256": "09ea34a93c2a2e44682b96847bb90e797da96328ce03780f350670d8c9b046ec"
     }
   },
   "update_policy": {
@@ -102,5 +68,7 @@
     "https://newsroom.2k.com/news/nbar-2k26-myplayer-builder-delivers-all-new-animation-glossary-scouting-reports-and-build-by-badges-for-increased-customization"
   ],
   "cloud_manifest_url": "https://raw.githubusercontent.com/mhmmdnrfdy11/nba2k26-companion-data/refs/heads/main/manifest.json",
-  "database_mode": "cloud_master_cache"
+  "database_mode": "cloud_master_cache",
+  "generated_by": "GitHub Actions source refresh",
+  "generated_at": "2026-09-10T07:11:39Z"
 }
