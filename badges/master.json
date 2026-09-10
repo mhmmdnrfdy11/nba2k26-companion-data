@@ -376,7 +376,7 @@
   },
   {
     "name": "Challenger",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "Under 7'0\"",
     "levels": {
       "Bronze": "71 Perimeter Def.",
@@ -391,7 +391,7 @@
   },
   {
     "name": "On-Ball Menace",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "Under 6'10\"",
     "levels": {
       "Bronze": "74 PD + 70 Agility",
@@ -406,7 +406,7 @@
   },
   {
     "name": "Glove",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "Under 7'1\"",
     "levels": {
       "Bronze": "67 Steal",
@@ -421,7 +421,7 @@
   },
   {
     "name": "Pick Dodger",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "Under 6'11\"",
     "levels": {
       "Bronze": "73 PD & 71 Agility",
@@ -436,7 +436,7 @@
   },
   {
     "name": "Interceptor",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "All",
     "levels": {
       "Bronze": "60 Steal",
@@ -451,7 +451,7 @@
   },
   {
     "name": "Post Lockdown",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "At Least 6'5\"",
     "levels": {
       "Bronze": "74 Interior Def. & 70 Strength",
@@ -466,7 +466,7 @@
   },
   {
     "name": "Immovable Enforcer",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "All",
     "levels": {
       "Bronze": "62 PD & 71 Strength",
@@ -481,7 +481,7 @@
   },
   {
     "name": "Boxout Beast",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "At Least 6'3\"",
     "levels": {
       "Bronze": "55 DREB or OREB",
@@ -496,7 +496,7 @@
   },
   {
     "name": "Rebound Chaser",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "All",
     "levels": {
       "Bronze": "60 DREB or OREB",
@@ -511,7 +511,7 @@
   },
   {
     "name": "Off-Ball Pest",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "All",
     "levels": {
       "Bronze": "69 Interior Def. or 58 PD",
@@ -526,7 +526,7 @@
   },
   {
     "name": "Paint Patroller",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "At Least 6'6\"",
     "levels": {
       "Bronze": "60 Interior Def. & 74 Block",
@@ -541,7 +541,7 @@
   },
   {
     "name": "High-Flying Denier",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "At Least 6'3\"",
     "levels": {
       "Bronze": "68 Block & 60 Vertical",
@@ -556,7 +556,7 @@
   },
   {
     "name": "Pogo Stick",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "At Least 6'4\"",
     "levels": {
       "Bronze": "63 Vertical",
@@ -571,7 +571,7 @@
   },
   {
     "name": "Brick Wall",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "At Least 6'5\"",
     "levels": {
       "Bronze": "72 Strength",
@@ -586,7 +586,7 @@
   },
   {
     "name": "Slippery Off-Ball",
-    "category": "Defense/Reb/Physical",
+    "category": "Def/Reb/Physical",
     "height": "Under 6'10\"",
     "levels": {
       "Bronze": "57 Speed & Agility",

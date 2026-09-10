@@ -1,812 +1,4890 @@
 [
   {
-    "name": "Grayson Allen",
-    "min_shooting": 79,
-    "height": "under 6'5",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Jose Alvarado",
-    "min_shooting": 80,
-    "height": "under 6'5",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Cole Anthony",
-    "min_shooting": 78,
-    "height": "under 6'5",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Bradley Beal",
-    "min_shooting": 84,
-    "height": "under 6'5",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Malik Beasley",
-    "min_shooting": 77,
-    "height": "under 6'5",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Jalen Brunson",
-    "min_shooting": 84,
-    "height": "under 6'5",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Stephen Curry",
-    "min_shooting": 93,
-    "height": "under 6'5",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Kyrie Irving",
-    "min_shooting": 89,
-    "height": "under 6'5",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Damian Lillard",
-    "min_shooting": 87,
-    "height": "under 6'5",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Tyrese Maxey",
-    "min_shooting": 83,
-    "height": "under 6'5",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Trae Young",
-    "min_shooting": 83,
-    "height": "under 6'5",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Russell Westbrook",
-    "min_shooting": 83,
-    "height": "under 6'5",
-    "status": "verified_secondary"
+    "name": "Kareem Abdul-Jabbar",
+    "min_shooting": 46,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Precious Achiuwa",
     "min_shooting": 68,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Bam Adebayo",
-    "min_shooting": 82,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "LaMelo Ball",
-    "min_shooting": 80,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Desmond Bane",
-    "min_shooting": 86,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Carmelo Anthony",
-    "min_shooting": 85,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Ray Allen",
-    "min_shooting": 88,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Jaylen Brown",
-    "min_shooting": 80,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Jimmy Butler",
-    "min_shooting": 78,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Jayson Tatum",
-    "min_shooting": 83,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Klay Thompson",
-    "min_shooting": 83,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Austin Reaves",
-    "min_shooting": 83,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Duncan Robinson",
-    "min_shooting": 83,
-    "height": "6'5-6'9",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Kareem Abdul-Jabbar",
-    "min_shooting": 46,
-    "height": "6'10+",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Giannis Antetokounmpo",
-    "min_shooting": 71,
-    "height": "6'10+",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Paolo Banchero",
-    "min_shooting": 80,
-    "height": "6'10+",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Anthony Davis",
-    "min_shooting": 79,
-    "height": "6'10+",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Nikola Vucevic",
-    "min_shooting": 81,
-    "height": "6'10+",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Victor Wembanyama",
-    "min_shooting": 79,
-    "height": "6'10+",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Karl-Anthony Towns",
-    "min_shooting": 76,
-    "height": "6'10+",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Zion Williamson",
-    "min_shooting": null,
-    "height": "6'10+",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Beluba",
-    "min_shooting": 88,
-    "height": "under 6'10 (guest)",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Chris Brickley",
-    "min_shooting": 80,
-    "height": "all heights (guest)",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "J. Cole",
-    "min_shooting": 79,
-    "height": "all heights (guest)",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "LD2K",
-    "min_shooting": 79,
-    "height": "all heights (guest)",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Ronnie 2K",
-    "min_shooting": 78,
-    "height": "all heights (guest)",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Dan Rue",
-    "min_shooting": 75,
-    "height": "all heights (guest)",
-    "status": "verified_secondary"
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Steven Adams",
     "min_shooting": 41,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Bam Adebayo",
+    "min_shooting": 82,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ochai Agbaji",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Santi Aldama",
     "min_shooting": 73,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "LaMarcus Aldridge",
     "min_shooting": 83,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nickeil Alexander-Walker",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Grayson Allen",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ray Allen",
+    "min_shooting": 88,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jarrett Allen",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jose Alvarado",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kyle Anderson",
+    "min_shooting": 63,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "min_shooting": 71,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Carmelo Anthony",
+    "min_shooting": 85,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cole Anthony",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "OG Anunoby",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Trevor Ariza",
+    "min_shooting": 77,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Deni Avdija",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "DeAndre Ayton",
     "min_shooting": 76,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Marvin Bagley III",
     "min_shooting": 73,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ace Bailey",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Patrick Baldwin Jr.",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "LaMelo Ball",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Lonzo Ball",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Paolo Banchero",
+    "min_shooting": 80,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Desmond Bane",
+    "min_shooting": 86,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dalano Banton",
+    "min_shooting": 76,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dominick Barlow",
+    "min_shooting": 73,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Scottie Barnes",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "RJ Barrett",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Charles Bassey",
+    "min_shooting": 63,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jamison Battle",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nicolas Batum",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Damion Baugh",
+    "min_shooting": 73,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Bradley Beal",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Malik Beasley",
+    "min_shooting": 77,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "MarJon Beauchamp",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Reece Beekman",
+    "min_shooting": 68,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Joan Beringer",
+    "min_shooting": 43,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Davis Bertans",
     "min_shooting": 83,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Saddiq Bey",
+    "min_shooting": 74,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Chauncey Billups",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Larry Bird",
+    "min_shooting": 86,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Goga Bitadze",
     "min_shooting": 67,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Bismack Biyombo",
+    "min_shooting": 47,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nemanja Bjelica",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Anthony Black",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Eric Bledsoe",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Bogdan Bogdanovic",
+    "min_shooting": 87,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Bojan Bogdanovic",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Bol Bol",
     "min_shooting": 80,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Adem Bona",
+    "min_shooting": 41,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Brandon Boston Jr.",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Chris Boucher",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Tony Bradley",
     "min_shooting": 47,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Elton Brand",
+    "min_shooting": 62,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Malaki Branham",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Christian Braun",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Mikal Bridges",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Miles Bridges",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jalen Bridges",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Oshae Brissett",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dillon Brooks",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jaylen Brown",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Bruce Brown",
+    "min_shooting": 69,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kobe Brown",
+    "min_shooting": 74,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jalen Brunson",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Carter Bryant",
+    "min_shooting": 74,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Thomas Bryant",
     "min_shooting": 81,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kobe Bufkin",
+    "min_shooting": 76,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Reggie Bullock",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Trey Burke",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Alec Burks",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jared Butler",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jimmy Butler",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Matas Buzelis",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kentavious Caldwell-Pope",
+    "min_shooting": 86,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Toumani Camara",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Vlatko Cancar",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Clint Capela",
     "min_shooting": 47,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Carlton Carrington",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Vince Carter",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Devin Carter",
+    "min_shooting": 74,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jevon Carter",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Michael Carter-Williams",
+    "min_shooting": 57,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Alex Caruso",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Stephon Castle",
+    "min_shooting": 68,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Julian Champagnie",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Justin Champagnie",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Marquese Chriss",
+    "min_shooting": 74,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cam Christie",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Max Christie",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Josh Christopher",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Brandon Clarke",
+    "min_shooting": 64,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jordan Clarkson",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Nicolas Claxton",
     "min_shooting": 60,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Walter Clayton Jr.",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nique Clifford",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Donovan Clingan",
     "min_shooting": 67,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Noah Clowney",
     "min_shooting": 76,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Isaiah Collier",
+    "min_shooting": 66,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Zach Collins",
     "min_shooting": 78,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "John Collins",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Darren Collison",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Mike Conley",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Pat Connaughton",
+    "min_shooting": 72,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Bilal Coulibaly",
+    "min_shooting": 64,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ricky Council IV",
+    "min_shooting": 65,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "DeMarcus Cousins",
     "min_shooting": 80,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Robert Covington",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cedric Coward",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Torrey Craig",
+    "min_shooting": 70,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Isaiah Crawford",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jae Crowder",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cade Cunningham",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Stephen Curry",
+    "min_shooting": 93,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Seth Curry",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Pacome Dadiet",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Anthony Davis",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Terence Davis",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Johnny Davis",
+    "min_shooting": 69,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "JD Davison",
+    "min_shooting": 76,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Matthew Dellavedova",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Egor Demin",
+    "min_shooting": 71,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "DeMar Derozan",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Donte DiVencenzo",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ousmane Dieng",
+    "min_shooting": 74,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Gorgui Dieng",
     "min_shooting": 77,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Robert Dillingham",
+    "min_shooting": 69,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Luka Doncic",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Luguentz Dort",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ayo Dosunmu",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "P.J. Dozier",
+    "min_shooting": 73,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Goran Dragic",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Clyde Drexler",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Chris Duarte",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Kevin Duckworth",
     "min_shooting": 55,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Tim Duncan",
     "min_shooting": 45,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ryan Dunn",
+    "min_shooting": 71,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kris Dunn",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kevin Durant",
+    "min_shooting": 89,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Jalen Duren",
     "min_shooting": 42,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tari Eason",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Zach Edey",
     "min_shooting": 71,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "V.J. Edgecombe",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Justin Edwards",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Anthony Edwards",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Wayne Ellington",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Keon Ellis",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Joel Embiid",
     "min_shooting": 78,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Noa Essengue",
+    "min_shooting": 72,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Drew Eubanks",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Patrick Ewing",
     "min_shooting": 60,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dante Exum",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Derrick Favors",
+    "min_shooting": 56,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jeremiah Fears",
+    "min_shooting": 76,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Bruno Fernando",
+    "min_shooting": 51,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Derek Fisher",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cooper Flagg",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Adam Flagler",
+    "min_shooting": 77,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Malachi Flynn",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Simone Fontecchio",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "De'Aaron Fox",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Steve Francis",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Enrique Freeman",
+    "min_shooting": 64,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Markelle Fultz",
+    "min_shooting": 67,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Johnny Furphy",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Daniel Gafford",
+    "min_shooting": 40,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Danilo Gallinari",
     "min_shooting": 82,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Darius Garland",
+    "min_shooting": 85,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Kevin Garnett",
     "min_shooting": 70,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Marc Gasol",
-    "min_shooting": 81,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Pau Gasol",
     "min_shooting": 83,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Marc Gasol",
+    "min_shooting": 81,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Rudy Gay",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Keyonte George",
+    "min_shooting": 77,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Paul George",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kyshawn George",
+    "min_shooting": 73,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Taj Gibson",
+    "min_shooting": 46,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Josh Giddey",
+    "min_shooting": 72,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Shai Gilgeous-Alexander",
+    "min_shooting": 87,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Anthony Gill",
+    "min_shooting": 74,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Collin Gillespie",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Rudy Gobert",
     "min_shooting": 41,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Hugo Gonzalez",
+    "min_shooting": 69,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jordan Goodwin",
+    "min_shooting": 74,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Aaron Gordon",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Eric Gordon",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jerami Grant",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Josh Green",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jalen Green",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Javonte Green",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "A.J. Green",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jeff Green",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Draymond Green",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Danny Green",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Blake Griffin",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Quentin Grimes",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Rui Hachimura",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tyrese Haliburton",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Yang Hansen",
     "min_shooting": 67,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Penny Hardaway",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "James Harden",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jaden Hardy",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dylan Harper",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tobias Harris",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Joe Harris",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Gary Harris",
+    "min_shooting": 77,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Josh Hart",
+    "min_shooting": 77,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Isaiah Hartenstein",
     "min_shooting": 72,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Udonis Haslem",
+    "min_shooting": 52,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Sam Hauser",
+    "min_shooting": 88,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jordan Hawkins",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Jaxson Hayes",
     "min_shooting": 66,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
-    "name": "Willy Hernangomez",
+    "name": "Killian Hayes",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Gordon Hayward",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Scoot Henderson",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Taylor Hendricks",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Will Hernangomez",
     "min_shooting": 69,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
-    "name": "Daron Holmes II",
-    "min_shooting": 75,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "name": "Tyler Herro",
+    "min_shooting": 86,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Buddy Hield",
+    "min_shooting": 73,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Haywood Highsmith",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "George Hill",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jrue Holiday",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Aaron Holiday",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ron Holland",
+    "min_shooting": 61,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Richaun Holmes",
     "min_shooting": 76,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Daron Holmes II",
+    "min_shooting": 75,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Chet Holmgren",
     "min_shooting": 77,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
-    "name": "Dwight Howard",
-    "min_shooting": 48,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "name": "Jalen Hood-Schifino",
+    "min_shooting": 82,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Al Horford",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Talen Horton-Tucker",
+    "min_shooting": 55,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Danuel House",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Caleb Houstan",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jett Howard",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kevin Huerter",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Jay Huff",
     "min_shooting": 79,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "De'Andre Hunter",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nah'Shon Hyland",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Serge Ibaka",
+    "min_shooting": 84,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Oso Ighodaro",
     "min_shooting": 43,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Andre Igoudala",
+    "min_shooting": 70,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Joe Ingles",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Harrison Ingram",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Brandon Ingram",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kyrie Irving",
+    "min_shooting": 89,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Jonathan Isaac",
     "min_shooting": 56,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Allen Iverson",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jaden Ivey",
+    "min_shooting": 77,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "G.G. Jackson",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Isaiah Jackson",
+    "min_shooting": 62,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Jaren Jackson Jr.",
     "min_shooting": 80,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kasparas Jakucionis",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "LeBron James",
+    "min_shooting": 82,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Bronny James Jr.",
+    "min_shooting": 63,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jaime Jaquez Jr.",
+    "min_shooting": 73,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ty Jerome",
+    "min_shooting": 86,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Isaiah Joe",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tre Johnson",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Magic Johnson",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "AJ Johnson",
+    "min_shooting": 74,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Stanley Johnson",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cameron Johnson",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Keon Johnson",
+    "min_shooting": 77,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jalen Johnson",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "James Johnson",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Keldon Johnson",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nikola Jokic",
+    "min_shooting": 85,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Damian Jones",
     "min_shooting": 41,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Colby Jones",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Kai Jones",
     "min_shooting": 70,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dillon Jones",
+    "min_shooting": 66,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tyus Jones",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tre Jones",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Isaac Jones",
+    "min_shooting": 49,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Herbert Jones",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Mason Jones",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Derrick Jones Jr.",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Michael Jordan",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "DeAndre Jordan",
     "min_shooting": 42,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cory Joseph",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nikola Jovic",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Johnny Juzang",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Frank Kaminsky III",
     "min_shooting": 74,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Luke Kennard",
+    "min_shooting": 85,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Steve Kerr",
+    "min_shooting": 86,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Walker Kessler",
     "min_shooting": 56,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jason Kidd",
+    "min_shooting": 74,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Corey Kispert",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Maxi Kleber",
     "min_shooting": 73,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Bobi Klintman",
     "min_shooting": 74,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dalton Knecht",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kevin Knox II",
+    "min_shooting": 71,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kon Knueppel",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tyler Kolek",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Yanic Konan Niederhauser",
     "min_shooting": 47,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "John Konchar",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Luke Kornet",
     "min_shooting": 63,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kyle Korver",
+    "min_shooting": 90,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Toni Kukoc",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jonathan Kuminga",
+    "min_shooting": 71,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kyle Kuzma",
+    "min_shooting": 68,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jake LaRavia",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Zach LaVine",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Skal Labissiere",
     "min_shooting": 79,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Bill Laimbeer",
     "min_shooting": 78,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Jock Landale",
     "min_shooting": 73,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Pelle Larsson",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "A.J. Lawson",
+    "min_shooting": 70,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Caris LeVert",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Damion Lee",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Alex Len",
     "min_shooting": 57,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kawhi Leonard",
+    "min_shooting": 85,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Rashard Lewis",
     "min_shooting": 78,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Damian Lillard",
+    "min_shooting": 87,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Dereck Lively II",
     "min_shooting": 53,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Isaiah Livers",
+    "min_shooting": 82,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kevon Looney",
+    "min_shooting": 51,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Brook Lopez",
     "min_shooting": 81,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kevin Love",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kyle Lowry",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Trey Lyles",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Karl Malone",
+    "min_shooting": 67,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Khaman Maluach",
     "min_shooting": 53,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Sandro Mamukelashvili",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Terance Mann",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tre Mann",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Shawn Marion",
+    "min_shooting": 73,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Lauri Markkanen",
     "min_shooting": 74,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Naji Marshall",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cody Martin",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Caleb Martin",
+    "min_shooting": 74,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kevin Martin",
+    "min_shooting": 82,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kenyon Martin Jr.",
+    "min_shooting": 71,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Garrison Mathews",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Bennedict Mathurin",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tyrese Maxey",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Miles McBride",
+    "min_shooting": 85,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jared McCain",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "CJ McCollum",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "TJ McConnell",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jalen McDaniels",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jaden McDaniels",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Doug McDermott",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Bryce McGowens",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jordan McLaughlin",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Liam McNeeley",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "De'Anthony Melton",
+    "min_shooting": 71,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Sam Merrill",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Khris Middleton",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Brandon Miller",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Paul Millsap",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Shake Milton",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Justin Minaya",
+    "min_shooting": 72,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Yves Missi",
     "min_shooting": 48,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ajay Mitchell",
+    "min_shooting": 82,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Donovan Mitchell",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Davion Mitchell",
+    "min_shooting": 61,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Evan Mobley",
     "min_shooting": 73,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jonathan Mogbo",
+    "min_shooting": 61,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Malik Monk",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Moses Moody",
+    "min_shooting": 55,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Taze Moore",
+    "min_shooting": 71,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Wendell Moore Jr.",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ja Morant",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Monte Morris",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Markieff Morris",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Chris Mullin",
+    "min_shooting": 88,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Trey Murphy III",
+    "min_shooting": 82,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kris Murray",
+    "min_shooting": 68,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Keegan Murray",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dejounte Murray",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jamal Murray",
+    "min_shooting": 85,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Collin Murray-Boyles",
+    "min_shooting": 68,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Mike Muscala",
     "min_shooting": 83,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Sviatoslav Mykhailiuk",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Steve Nash",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Andrew Nembhard",
+    "min_shooting": 86,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Aaron Nesmith",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Raul Neto",
+    "min_shooting": 71,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tristen Newton",
+    "min_shooting": 72,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Georges Niang",
+    "min_shooting": 82,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Daishen Nix",
+    "min_shooting": 68,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Zeke Nnaji",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Joakim Noah",
     "min_shooting": 40,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Nerlens Noel",
     "min_shooting": 43,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jaylen Nowell",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Dirk Nowitzki",
     "min_shooting": 79,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Jusuf Nurkic",
     "min_shooting": 79,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
-  },
-  {
-    "name": "Kelly Olynyk",
-    "min_shooting": 77,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Shaquille O'Neal",
     "min_shooting": 38,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Royce O'Neale",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Charles Oakley",
+    "min_shooting": 70,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Lamar Odom",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Chuma Okeke",
+    "min_shooting": 72,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Josh Okogie",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Onyeka Okongwu",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Isaac Okoro",
+    "min_shooting": 74,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kelly Olynyk",
+    "min_shooting": 77,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Eugene Omoruyi",
+    "min_shooting": 72,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kelly Oubre Jr.",
+    "min_shooting": 74,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tony Parker",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Chris Paul",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cameron Payne",
+    "min_shooting": 76,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Elfrid Payton",
+    "min_shooting": 76,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Gary Payton II",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Sam Perkins",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Julian Phillips",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jalen Pickett",
+    "min_shooting": 76,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Paul Pierce",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Scottie Pippen",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Scotty Pippen Jr.",
+    "min_shooting": 73,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Mason Plumlee",
     "min_shooting": 57,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Brandin Podziemski",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Jakob Poeltl",
     "min_shooting": 62,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jordan Poole",
+    "min_shooting": 76,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Otto Porter",
+    "min_shooting": 87,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Michael Porter Jr.",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kevin Porter Jr.",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Bobby Portis Jr.",
     "min_shooting": 81,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Kristaps Porzingis",
     "min_shooting": 77,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Quinten Post",
     "min_shooting": 79,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Micah Potter",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dwight Powell",
+    "min_shooting": 48,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Drake Powell",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Norman Powell",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Dwight Powell",
     "min_shooting": 73,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jason Preston",
+    "min_shooting": 71,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Taurean Prince",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Payton Pritchard",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Oliver-Maxence Prosper",
+    "min_shooting": 70,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Trevelin Queen",
+    "min_shooting": 76,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Derik Queen",
     "min_shooting": 66,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Neemias Queta",
     "min_shooting": 41,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Immanuel Quickley",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Lester Quinones",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Vladimir Radmanovic",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Julius Randle",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Zach Randolph",
+    "min_shooting": 67,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Duop Reath",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Austin Reaves",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cameron Reddish",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "JJ Redick",
+    "min_shooting": 85,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Paul Reed",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Antonio Reeves",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Naz Reid",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Nick Richards",
     "min_shooting": 42,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
-    "name": "David Robinson",
-    "min_shooting": 46,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "name": "Jase Richardson",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Josh Richardson",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Will Riley",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Zaccharie Risacher",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Austin Rivers",
+    "min_shooting": 73,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Mitchell Robinson",
     "min_shooting": 46,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "David Robinson",
+    "min_shooting": 46,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nate Robinson",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Duncan Robinson",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Orlando Robinson",
     "min_shooting": 73,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Glenn Robinson III",
+    "min_shooting": 82,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jeremiah Robinson-Earl",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "David Roddy",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ryan Rollins",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Rajon Rondo",
+    "min_shooting": 72,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Derrick Rose",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Terrence Ross",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Terry Rozier III",
+    "min_shooting": 77,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Rayan Rupert",
+    "min_shooting": 68,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "D'Angelo Russell",
+    "min_shooting": 74,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Matt Ryan",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "KJ SImpson",
+    "min_shooting": 54,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Domantas Sabonis",
     "min_shooting": 82,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tidjane Salaun",
+    "min_shooting": 72,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Guis Santos",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ben Saraf",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Dario Saric",
     "min_shooting": 73,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Alexandre Sarr",
     "min_shooting": 75,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Marcus Sasser",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Baylor Scheierman",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dennis Schroder",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Alperen Sengun",
     "min_shooting": 77,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
-    "name": "Jabari Smith Jr.",
-    "min_shooting": 79,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "name": "Brice Sensabaugh",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Collin Sexton",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Landry Shamet",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Terrence Shannon Jr.",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Day'Ron Sharpe",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Shaedon Sharpe",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jamal Shead",
+    "min_shooting": 73,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ben Sheppard",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Reed Sheppard",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "L. Shooter",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Pascal Siakam",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ben Simmons",
+    "min_shooting": 51,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Anfernee Simons",
+    "min_shooting": 86,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Marcus Smart",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Tyler Smith",
     "min_shooting": 79,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "J.R. Smith",
+    "min_shooting": 71,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jalen Smith",
+    "min_shooting": 74,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nick Smith Jr.",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jabari Smith Jr.",
+    "min_shooting": 79,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tony Snell",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jeremy Sochan",
+    "min_shooting": 56,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Thomas Sorber",
     "min_shooting": 64,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cam Spencer",
+    "min_shooting": 78,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jaden Springer",
+    "min_shooting": 77,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Lamar Stevens",
+    "min_shooting": 72,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Isaiah Stewart",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "John Stockton",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Amar'e Stoudemire",
+    "min_shooting": 78,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Julian Strawther",
+    "min_shooting": 67,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Max Strus",
+    "min_shooting": 84,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jalen Suggs",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cole Swider",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jae'Sean Tate",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jayson Tatum",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Terry Taylor",
+    "min_shooting": 73,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Garrett Temple",
+    "min_shooting": 64,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dalen Terry",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Daniel Theis",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Isaiah Thomas",
+    "min_shooting": 87,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cameron Thomas",
+    "min_shooting": 86,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Klay Thompson",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Amen Thompson",
+    "min_shooting": 72,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ausar Thompson",
+    "min_shooting": 61,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tristan Thompson",
+    "min_shooting": 47,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "JT Thor",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Matisse Thybulle",
+    "min_shooting": 62,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Xavier Tillman",
+    "min_shooting": 60,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nikola Topic",
+    "min_shooting": 68,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Obi Toppin",
+    "min_shooting": 69,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Karl-Anthony Towns",
     "min_shooting": 76,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nolan Traore",
+    "min_shooting": 69,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Gary Trent Jr.",
+    "min_shooting": 82,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "PJ Tucker",
+    "min_shooting": 82,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Myles Turner",
+    "min_shooting": 85,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jaylon Tyson",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Hunter Tyson",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Jonas Valanciunas",
     "min_shooting": 72,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Fred VanVleet",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jarred Vanderbilt",
+    "min_shooting": 65,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Devin Vassell",
+    "min_shooting": 85,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Gabe Vincent",
+    "min_shooting": 85,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Nikola Vucevic",
+    "min_shooting": 81,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dwyane Wade",
+    "min_shooting": 77,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dean Wade",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Moritz Wagner",
     "min_shooting": 78,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Franz Wagner",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jabari Walker",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jarace Walker",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kemba Walker",
+    "min_shooting": 84,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Lonnie Walker IV",
+    "min_shooting": 82,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "John Wall",
+    "min_shooting": 81,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cason Wallace",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jordan Walsh",
+    "min_shooting": 71,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jakobe Walter",
+    "min_shooting": 71,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Kelel Ware",
     "min_shooting": 73,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "TJ Warren",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "PJ Washington",
+    "min_shooting": 70,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "TyTy Washington Jr.",
+    "min_shooting": 76,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Lindy Waters III",
+    "min_shooting": 83,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Trendon Watford",
+    "min_shooting": 74,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Peyton Watson",
+    "min_shooting": 64,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Chris Webber",
     "min_shooting": 79,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jaylen Wells",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Victor Wembanyama",
+    "min_shooting": 79,
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Blake Wesley",
+    "min_shooting": 65,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jerry West",
+    "min_shooting": 90,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "David West",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Russell Westbrook",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Coby White",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Derrick White",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dariq Whitehead",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Hassan Whiteside",
     "min_shooting": 44,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cam Whitmore",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Andrew Wiggins",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Aaron Wiggins",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dominique Wilkins",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Vince Williams",
+    "min_shooting": 62,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Cody Williams",
+    "min_shooting": 56,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Brandon Williams",
+    "min_shooting": 85,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jalen Williams",
+    "min_shooting": 87,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jason Williams",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Alondes Williams",
+    "min_shooting": 72,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jaylin Williams",
+    "min_shooting": 80,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ziaire Williams",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Kenrich Williams",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Louis Williams",
+    "min_shooting": 76,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Mark Williams",
     "min_shooting": 43,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Patrick Williams",
+    "min_shooting": 76,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Grant Williams",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Robert Williams III",
+    "min_shooting": 44,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Zion Williamson",
+    "min_shooting": 81,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Jalen Wilson",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dylan Windler",
+    "min_shooting": 77,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "James Wiseman",
     "min_shooting": 61,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Danny Wolf",
     "min_shooting": 74,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Christian Wood",
+    "min_shooting": 68,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Delon Wright",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Guerschon Yabusele",
+    "min_shooting": 75,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Trae Young",
+    "min_shooting": 83,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Thaddeus Young",
+    "min_shooting": 79,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Cody Zeller",
     "min_shooting": 44,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   },
   {
     "name": "Ivica Zubac",
     "min_shooting": 45,
-    "height": "6'10-7'4",
-    "status": "verified_secondary"
+    "height": "6'10",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Tristan da Silva",
+    "min_shooting": 57,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Beluba",
+    "min_shooting": 88,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Chris Brickley",
+    "min_shooting": 80,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "J. Cole",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Dan Rue",
+    "min_shooting": 75,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "LD2K",
+    "min_shooting": 79,
+    "height": "5'9",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
+  },
+  {
+    "name": "Ronnie 2k",
+    "min_shooting": 78,
+    "height": "6'5",
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements"
   }
 ]
