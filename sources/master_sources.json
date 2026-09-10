@@ -1,0 +1,29 @@
+{
+  "game": "NBA 2K26",
+  "purpose": "master public-data ingestion manifest",
+  "sources": {
+    "official": "https://newsroom.2k.com/news/nbar-2k26-myplayer-builder-delivers-all-new-animation-glossary-scouting-reports-and-build-by-badges-for-increased-customization",
+    "animation_primary": "https://nba2kw.com/nba-2k26-all-animation-requirements",
+    "animation_secondary": "https://2kmyplayer.com/animations/2k26",
+    "go_to_secondary": "https://fenixbazaar.com/2025/09/02/nba-2k26-go-to-shot-animation-requirements/",
+    "jumpshot_primary": "https://nba2kw.com/all-nba-2k26-jumpshot-requirements",
+    "jumpshot_secondary": "https://www.operationsports.com/all-nba-2k26-jump-shot-requirements/",
+    "jumpshot_secondary_2": "https://fenixbazaar.com/2025/09/02/nba-2k26-jump-shot-animation-requirements/",
+    "builds": "https://2kmyplayer.com/",
+    "official_2k_builder": "https://newsroom.2k.com/news/nbar-2k26-myplayer-builder-delivers-all-new-animation-glossary-scouting-reports-and-build-by-badges-for-increased-customization",
+    "official_cap_breakers": "https://support.nba2k.com/hc/en-us/articles/44238406830995-NBA-2K26-Cap-Breakers-Return",
+    "jump_shots_operationsports": "https://www.operationsports.com/all-nba-2k26-jump-shot-requirements/",
+    "jump_shots_fenix": "https://fenixbazaar.com/2025/09/02/nba-2k26-jump-shot-animation-requirements/",
+    "shooting_lab": "https://www.nba2klab.com/videos/nba-2k26-how-to-shoot",
+    "rhythm_update": "https://www.nba2klab.com/videos/rhythm-shooting-update",
+    "rhythm_practice": "https://www.nba2klab.com/rhythm-practice-tool",
+    "mycareer_vc_official": "https://support.nba2k.com/hc/en-us/articles/41752375392787-NBA-2K-VC-Virtual-Currency-AND-MTP-MyTEAM-Points-How-They-Work"
+  },
+  "rules": [
+    "Master catalog is never filtered by current build",
+    "Duplicate records are merged without deleting unique names",
+    "Unknown requirements are retained as UNKNOWN instead of guessed",
+    "Primary and secondary sources are kept in each record"
+  ],
+  "generated": "2026-09-10"
+}

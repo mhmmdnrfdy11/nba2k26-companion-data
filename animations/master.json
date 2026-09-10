@@ -1,0 +1,317 @@
+[
+  {
+    "type": "Dribble Style",
+    "name": "Basic",
+    "requirement": "No attribute requirement",
+    "height": "5'9-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Normal",
+    "requirement": "Speed With Ball 40",
+    "height": "5'9-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Pro",
+    "requirement": "Speed With Ball 70",
+    "height": "5'9-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Giannis",
+    "requirement": "Speed With Ball 55",
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Paolo",
+    "requirement": "Speed With Ball 50",
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "LaMelo Ball",
+    "requirement": "Speed With Ball 80",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Devin Booker",
+    "requirement": "Speed With Ball 80",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Jaylen Brown",
+    "requirement": "Speed With Ball 85",
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Jalen Brunson",
+    "requirement": "Speed With Ball 87",
+    "height": "5'9-6'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Jimmy Butler",
+    "requirement": "Speed With Ball 70",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Cade Cunningham",
+    "requirement": "Speed With Ball 75",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Stephen Curry",
+    "requirement": "Speed With Ball 91",
+    "height": "5'9-6'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "DeMar DeRozan",
+    "requirement": "Speed With Ball 75",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Luka Doncic",
+    "requirement": "Speed With Ball 80",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Kevin Durant",
+    "requirement": "Speed With Ball 65",
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Anthony Edwards",
+    "requirement": "Speed With Ball 76",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "De'Aaron Fox",
+    "requirement": "Speed With Ball 90",
+    "height": "5'9-6'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Shai Gilgeous-Alexander",
+    "requirement": "Speed With Ball 84",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Jalen Green",
+    "requirement": "Speed With Ball 75",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Tyrese Haliburton",
+    "requirement": "Speed With Ball 79",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "James Harden",
+    "requirement": "Speed With Ball 75",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Kyrie Irving",
+    "requirement": "Speed With Ball 94",
+    "height": "5'9-6'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Jaren Jackson Jr.",
+    "requirement": "Speed With Ball 75",
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Nikola Jokic",
+    "requirement": "Speed With Ball 50",
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Zach LaVine",
+    "requirement": "Speed With Ball 75",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Damian Lillard",
+    "requirement": "Speed With Ball 91",
+    "height": "5'9-6'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Tyrese Maxey",
+    "requirement": "Speed With Ball 70",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Donovan Mitchell",
+    "requirement": "Speed With Ball 80",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Ja Morant",
+    "requirement": "Speed With Ball 85",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Dejounte Murray",
+    "requirement": "Speed With Ball 86",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Jamal Murray",
+    "requirement": "Speed With Ball 86",
+    "height": "5'9-6'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Chris Paul",
+    "requirement": "Speed With Ball 80",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Austin Reaves",
+    "requirement": "Speed With Ball 70",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Domantas Sabonis",
+    "requirement": "Speed With Ball 40",
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Jayson Tatum",
+    "requirement": "Speed With Ball 75",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Victor Wembanyama",
+    "requirement": "Speed With Ball 55",
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Russell Westbrook",
+    "requirement": "Speed With Ball 87",
+    "height": "5'9-6'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Dribble Style",
+    "name": "Coby White",
+    "requirement": "Speed With Ball 85",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Contact Dunk",
+    "name": "Small Contact Dunks",
+    "requirement": "Driving Dunk 86 AND Vertical 85",
+    "height": "5'9-6'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Contact Dunk",
+    "name": "Pro Contact Dunks",
+    "requirement": "Driving Dunk 84 AND Vertical 70",
+    "height": "5'9-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Contact Dunk",
+    "name": "Elite Contact Dunks",
+    "requirement": "Driving Dunk 92 AND Vertical 80",
+    "height": "5'9-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Alley-Oop",
+    "name": "Elite Alley-Oops",
+    "requirement": "Driving Dunk 85 AND Vertical 60",
+    "height": "5'9-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Layup Style",
+    "name": "LaMelo Ball",
+    "requirement": "Driving Layup 80",
+    "height": "5'9-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Layup Style",
+    "name": "Bradley Beal",
+    "requirement": "Driving Layup 85",
+    "height": "5'9-6'4",
+    "status": "verified_secondary"
+  },
+  {
+    "type": "Layup Style",
+    "name": "Bam Adebayo",
+    "requirement": "Driving Layup 76",
+    "height": "6'5-7'4",
+    "status": "verified_secondary"
+  }
+]
