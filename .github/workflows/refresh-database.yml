@@ -1,28 +1,68 @@
 name: Refresh NBA 2K26 Cloud Master
+
 on:
   workflow_dispatch:
   schedule:
     - cron: '17 */6 * * *'
-  push:
-    branches: [main]
+
 permissions:
   contents: write
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
       - name: Install parser dependencies
         run: python -m pip install requests beautifulsoup4 lxml
+
       - name: Scrape and rebuild master database
         run: python tools/refresh_database.py
+
+      - name: Publish Cloud Master paths
+        run: |
+          mkdir -p animations jumpshots badges
+          cp data/animations.json animations/master.json
+          cp data/jumpshots.json jumpshots/master.json
+          cp data/badges.json badges/master.json
+          cp data/manifest.json manifest.json
+
+      - name: Verify Cloud Master
+        run: |
+          python - <<'PY'
+          import json
+
+          animations = json.load(open("animations/master.json", encoding="utf-8"))
+          jumpshots = json.load(open("jumpshots/master.json", encoding="utf-8"))
+          badges = json.load(open("badges/master.json", encoding="utf-8"))
+
+          print("CLOUD MASTER COUNTS")
+          print("Animations:", len(animations))
+          print("Jumpshots:", len(jumpshots))
+          print("Badges:", len(badges))
+
+          if len(animations) < 500:
+              raise SystemExit("ERROR: animations master too small")
+          if len(jumpshots) < 400:
+              raise SystemExit("ERROR: jumpshots master too small")
+          if len(badges) < 30:
+              raise SystemExit("ERROR: badges master too small")
+
+          print("CLOUD MASTER VERIFIED")
+          PY
+
       - name: Commit refreshed database
         run: |
           git config user.name 'nba2k26-cloud-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data
-          git diff --cached --quiet || git commit -m "chore: refresh NBA 2K26 master database"
+
+          git add data animations jumpshots badges manifest.json
+
+          git diff --cached --quiet || git commit -m "chore: refresh NBA 2K26 cloud master"
           git push
