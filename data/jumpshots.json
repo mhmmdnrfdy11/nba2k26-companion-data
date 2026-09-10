@@ -1,0 +1,812 @@
+[
+  {
+    "name": "Grayson Allen",
+    "min_shooting": 79,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jose Alvarado",
+    "min_shooting": 80,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Cole Anthony",
+    "min_shooting": 78,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Bradley Beal",
+    "min_shooting": 84,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Malik Beasley",
+    "min_shooting": 77,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jalen Brunson",
+    "min_shooting": 84,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Stephen Curry",
+    "min_shooting": 93,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Kyrie Irving",
+    "min_shooting": 89,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Damian Lillard",
+    "min_shooting": 87,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Tyrese Maxey",
+    "min_shooting": 83,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Trae Young",
+    "min_shooting": 83,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Russell Westbrook",
+    "min_shooting": 83,
+    "height": "under 6'5",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Precious Achiuwa",
+    "min_shooting": 68,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Bam Adebayo",
+    "min_shooting": 82,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "LaMelo Ball",
+    "min_shooting": 80,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Desmond Bane",
+    "min_shooting": 86,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Carmelo Anthony",
+    "min_shooting": 85,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Ray Allen",
+    "min_shooting": 88,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jaylen Brown",
+    "min_shooting": 80,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jimmy Butler",
+    "min_shooting": 78,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jayson Tatum",
+    "min_shooting": 83,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Klay Thompson",
+    "min_shooting": 83,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Austin Reaves",
+    "min_shooting": 83,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Duncan Robinson",
+    "min_shooting": 83,
+    "height": "6'5-6'9",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Kareem Abdul-Jabbar",
+    "min_shooting": 46,
+    "height": "6'10+",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "min_shooting": 71,
+    "height": "6'10+",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Paolo Banchero",
+    "min_shooting": 80,
+    "height": "6'10+",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Anthony Davis",
+    "min_shooting": 79,
+    "height": "6'10+",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Nikola Vucevic",
+    "min_shooting": 81,
+    "height": "6'10+",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Victor Wembanyama",
+    "min_shooting": 79,
+    "height": "6'10+",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "min_shooting": 76,
+    "height": "6'10+",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Zion Williamson",
+    "min_shooting": null,
+    "height": "6'10+",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Beluba",
+    "min_shooting": 88,
+    "height": "under 6'10 (guest)",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Chris Brickley",
+    "min_shooting": 80,
+    "height": "all heights (guest)",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "J. Cole",
+    "min_shooting": 79,
+    "height": "all heights (guest)",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "LD2K",
+    "min_shooting": 79,
+    "height": "all heights (guest)",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Ronnie 2K",
+    "min_shooting": 78,
+    "height": "all heights (guest)",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Dan Rue",
+    "min_shooting": 75,
+    "height": "all heights (guest)",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Steven Adams",
+    "min_shooting": 41,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Santi Aldama",
+    "min_shooting": 73,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "LaMarcus Aldridge",
+    "min_shooting": 83,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "DeAndre Ayton",
+    "min_shooting": 76,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Marvin Bagley III",
+    "min_shooting": 73,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Davis Bertans",
+    "min_shooting": 83,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Goga Bitadze",
+    "min_shooting": 67,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Bol Bol",
+    "min_shooting": 80,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Tony Bradley",
+    "min_shooting": 47,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Thomas Bryant",
+    "min_shooting": 81,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Clint Capela",
+    "min_shooting": 47,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Nicolas Claxton",
+    "min_shooting": 60,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Donovan Clingan",
+    "min_shooting": 67,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Noah Clowney",
+    "min_shooting": 76,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Zach Collins",
+    "min_shooting": 78,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "DeMarcus Cousins",
+    "min_shooting": 80,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Gorgui Dieng",
+    "min_shooting": 77,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Kevin Duckworth",
+    "min_shooting": 55,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Tim Duncan",
+    "min_shooting": 45,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jalen Duren",
+    "min_shooting": 42,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Zach Edey",
+    "min_shooting": 71,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Joel Embiid",
+    "min_shooting": 78,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Patrick Ewing",
+    "min_shooting": 60,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Danilo Gallinari",
+    "min_shooting": 82,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Kevin Garnett",
+    "min_shooting": 70,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Marc Gasol",
+    "min_shooting": 81,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Pau Gasol",
+    "min_shooting": 83,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Rudy Gobert",
+    "min_shooting": 41,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Yang Hansen",
+    "min_shooting": 67,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Isaiah Hartenstein",
+    "min_shooting": 72,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jaxson Hayes",
+    "min_shooting": 66,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Willy Hernangomez",
+    "min_shooting": 69,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Daron Holmes II",
+    "min_shooting": 75,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Richaun Holmes",
+    "min_shooting": 76,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Chet Holmgren",
+    "min_shooting": 77,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Dwight Howard",
+    "min_shooting": 48,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jay Huff",
+    "min_shooting": 79,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Oso Ighodaro",
+    "min_shooting": 43,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jonathan Isaac",
+    "min_shooting": 56,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jaren Jackson Jr.",
+    "min_shooting": 80,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Damian Jones",
+    "min_shooting": 41,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Kai Jones",
+    "min_shooting": 70,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "DeAndre Jordan",
+    "min_shooting": 42,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Frank Kaminsky III",
+    "min_shooting": 74,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Walker Kessler",
+    "min_shooting": 56,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Maxi Kleber",
+    "min_shooting": 73,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Bobi Klintman",
+    "min_shooting": 74,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Yanic Konan Niederhauser",
+    "min_shooting": 47,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Luke Kornet",
+    "min_shooting": 63,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Skal Labissiere",
+    "min_shooting": 79,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Bill Laimbeer",
+    "min_shooting": 78,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jock Landale",
+    "min_shooting": 73,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Alex Len",
+    "min_shooting": 57,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Rashard Lewis",
+    "min_shooting": 78,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Dereck Lively II",
+    "min_shooting": 53,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Brook Lopez",
+    "min_shooting": 81,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Khaman Maluach",
+    "min_shooting": 53,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Lauri Markkanen",
+    "min_shooting": 74,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Yves Missi",
+    "min_shooting": 48,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Evan Mobley",
+    "min_shooting": 73,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Mike Muscala",
+    "min_shooting": 83,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Joakim Noah",
+    "min_shooting": 40,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Nerlens Noel",
+    "min_shooting": 43,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Dirk Nowitzki",
+    "min_shooting": 79,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jusuf Nurkic",
+    "min_shooting": 79,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Kelly Olynyk",
+    "min_shooting": 77,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Shaquille O'Neal",
+    "min_shooting": 38,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Mason Plumlee",
+    "min_shooting": 57,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jakob Poeltl",
+    "min_shooting": 62,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Bobby Portis Jr.",
+    "min_shooting": 81,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Kristaps Porzingis",
+    "min_shooting": 77,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Quinten Post",
+    "min_shooting": 79,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Dwight Powell",
+    "min_shooting": 73,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Derik Queen",
+    "min_shooting": 66,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Neemias Queta",
+    "min_shooting": 41,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Nick Richards",
+    "min_shooting": 42,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "David Robinson",
+    "min_shooting": 46,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Mitchell Robinson",
+    "min_shooting": 46,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Orlando Robinson",
+    "min_shooting": 73,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Domantas Sabonis",
+    "min_shooting": 82,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Dario Saric",
+    "min_shooting": 73,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Alexandre Sarr",
+    "min_shooting": 75,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Alperen Sengun",
+    "min_shooting": 77,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jabari Smith Jr.",
+    "min_shooting": 79,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Tyler Smith",
+    "min_shooting": 79,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Thomas Sorber",
+    "min_shooting": 64,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Amar'e Stoudemire",
+    "min_shooting": 76,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Jonas Valanciunas",
+    "min_shooting": 72,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Moritz Wagner",
+    "min_shooting": 78,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Kelel Ware",
+    "min_shooting": 73,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Chris Webber",
+    "min_shooting": 79,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Hassan Whiteside",
+    "min_shooting": 44,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Mark Williams",
+    "min_shooting": 43,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "James Wiseman",
+    "min_shooting": 61,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Danny Wolf",
+    "min_shooting": 74,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Cody Zeller",
+    "min_shooting": 44,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  },
+  {
+    "name": "Ivica Zubac",
+    "min_shooting": 45,
+    "height": "6'10-7'4",
+    "status": "verified_secondary"
+  }
+]

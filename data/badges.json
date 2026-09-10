@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Ankle Assassin",
+    "category": "Playmaking",
+    "height": "Under 6'11\"",
+    "levels": {
+      "Bronze": "75 Ball Handle",
+      "Silver": "86 Ball Handle",
+      "Gold": "93 Ball Handle",
+      "HOF": "95 Ball Handle",
+      "Legend": "98 Ball Handle"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Lightning Launch",
+    "category": "Playmaking",
+    "height": "Under 7'",
+    "levels": {
+      "Bronze": "68 Speed with Ball",
+      "Silver": "75 Speed with Ball",
+      "Gold": "86 Speed with Ball",
+      "HOF": "91 Speed with Ball",
+      "Legend": "94 Speed with Ball"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Ball Out",
+    "category": "Playmaking",
+    "height": "All",
+    "levels": {
+      "Bronze": "85 Pass Accuracy",
+      "Silver": "91 Pass Accuracy",
+      "Gold": "94 Pass Accuracy",
+      "HOF": "96 Pass Accuracy",
+      "Legend": "99 Pass Accuracy"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Unpluckable",
+    "category": "Playmaking",
+    "height": "All",
+    "levels": {
+      "Bronze": "75 Post Control or 70 BH",
+      "Silver": "86 Post Control or 80 BH",
+      "Gold": "96 Ball Handle",
+      "HOF": "96 Ball Handle",
+      "Legend": "99 Ball Handle"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Versatile Visionary",
+    "category": "Playmaking",
+    "height": "All",
+    "levels": {
+      "Bronze": "70 Pass Accuracy",
+      "Silver": "76 Pass Accuracy",
+      "Gold": "84 Pass Accuracy",
+      "HOF": "95 Pass Accuracy",
+      "Legend": "99 Pass Accuracy"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Strong Handle",
+    "category": "Playmaking",
+    "height": "Under 7'0\"",
+    "levels": {
+      "Bronze": "60 BH & Strength",
+      "Silver": "67 BH & 65 Strength",
+      "Gold": "73 BH & Strength",
+      "HOF": "77 BH & 84 Strength",
+      "Legend": "80 BH & 93 Strength"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Handles for Days",
+    "category": "Playmaking",
+    "height": "Under 7'1\"",
+    "levels": {
+      "Bronze": "71 Ball Handle",
+      "Silver": "81 Ball Handle",
+      "Gold": "90 Ball Handle",
+      "HOF": "94 Ball Handle",
+      "Legend": "97 Ball Handle"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Break Starter",
+    "category": "Playmaking",
+    "height": "All",
+    "levels": {
+      "Bronze": "65 Pass Accuracy",
+      "Silver": "75 Pass Accuracy",
+      "Gold": "87 Pass Accuracy",
+      "HOF": "93 Pass Accuracy",
+      "Legend": "98 Pass Accuracy"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Dimer",
+    "category": "Playmaking",
+    "height": "All",
+    "levels": {
+      "Bronze": "55 Pass Accuracy",
+      "Silver": "71 Pass Accuracy",
+      "Gold": "82 Pass Accuracy",
+      "HOF": "92 Pass Accuracy",
+      "Legend": "98 Pass Accuracy"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Set Shot Specialist",
+    "category": "Shooting",
+    "height": "All",
+    "levels": {
+      "Bronze": "65 Midrange or 3PT",
+      "Silver": "78 Midrange or 3PT",
+      "Gold": "89 Midrange or 3PT",
+      "HOF": "93 Midrange or 95 3PT",
+      "Legend": "98 Midrange or 98 3PT"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Limitless Range",
+    "category": "Shooting",
+    "height": "All",
+    "levels": {
+      "Bronze": "83 3PT",
+      "Silver": "89 3PT",
+      "Gold": "93 3PT",
+      "HOF": "96 3PT",
+      "Legend": "99 3PT"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Mini Marksman",
+    "category": "Shooting",
+    "height": "Under 6'4\"",
+    "levels": {
+      "Bronze": "71 Midrange or 3PT",
+      "Silver": "82 Midrange or 3PT",
+      "Gold": "94 Midrange or 3PT",
+      "HOF": "97 Midrange or 99 3PT",
+      "Legend": "99 Midrange or 99 3PT"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Shifty Shooter",
+    "category": "Shooting",
+    "height": "Under 7'0\"",
+    "levels": {
+      "Bronze": "76 Midrange or 3PT",
+      "Silver": "87 Midrange or 3PT",
+      "Gold": "91 Midrange or 3PT",
+      "HOF": "96 Midrange or 99 3PT",
+      "Legend": "99 Midrange or 99 3PT"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Deadeye",
+    "category": "Shooting",
+    "height": "All",
+    "levels": {
+      "Bronze": "73 Midrange or 3PT",
+      "Silver": "85 Midrange or 3PT",
+      "Gold": "92 Midrange or 3PT",
+      "HOF": "95 Midrange or 99 3PT",
+      "Legend": "99 Midrange or 99 3PT"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Posterizer",
+    "category": "Finishing",
+    "height": "All",
+    "levels": {
+      "Bronze": "73 DD & 65 Vertical",
+      "Silver": "87 DD & 75 Vertical",
+      "Gold": "93 DD & 80 Vertical",
+      "HOF": "96 DD & 85 Vertical",
+      "Legend": "99 DD & 90 Vertical"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Physical Finisher",
+    "category": "Finishing",
+    "height": "All",
+    "levels": {
+      "Bronze": "60 Strength & 70 DL",
+      "Silver": "67 Strength & 80 DL",
+      "Gold": "75 Strength & 90 DL",
+      "HOF": "83 Strength & 96 DL",
+      "Legend": "97 Strength & DL"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Aerial Wizard",
+    "category": "Finishing",
+    "height": "All",
+    "levels": {
+      "Bronze": "64 DD or 60 Standing Dunk",
+      "Silver": "70 DD or 75 Standing Dunk",
+      "Gold": "80 DD or 84 Standing Dunk",
+      "HOF": "89 DD or 92 Standing Dunk",
+      "Legend": "97 DD or 98 Standing Dunk"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Hook Specialist",
+    "category": "Finishing",
+    "height": "All",
+    "levels": {
+      "Bronze": "60 Close Shot & 61 PC",
+      "Silver": "75 Close Shot & 65 PC",
+      "Gold": "87 Close Shot & 80 PC",
+      "HOF": "94 Close Shot & 90 PC",
+      "Legend": "99 Close Shot & 97 PC"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Post Powerhouse",
+    "category": "Finishing",
+    "height": "At Least 6'4\"",
+    "levels": {
+      "Bronze": "64 PC & 70 Strength",
+      "Silver": "75 PC & 79 Strength",
+      "Gold": "85 PC & 86 Strength",
+      "HOF": "93 PC & 95 Strength",
+      "Legend": "98 PC & 96 Strength"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Layup Mixmaster",
+    "category": "Finishing",
+    "height": "Under 7'0\"",
+    "levels": {
+      "Bronze": "75 Driving Layup",
+      "Silver": "85 Driving Layup",
+      "Gold": "93 Driving Layup",
+      "HOF": "97 Driving Layup",
+      "Legend": "99 Driving Layup"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Post-Up Poet",
+    "category": "Finishing",
+    "height": "All",
+    "levels": {
+      "Bronze": "67 Post Control",
+      "Silver": "77 Post Control",
+      "Gold": "87 Post Control",
+      "HOF": "95 Post Control",
+      "Legend": "99 Post Control"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Rise Up",
+    "category": "Finishing",
+    "height": "At Least 6'6\"",
+    "levels": {
+      "Bronze": "72 SD & 60 Vertical",
+      "Silver": "81 SD & 62 Vertical",
+      "Gold": "90 SD & 66 Vertical",
+      "HOF": "95 SD & 69 Vertical",
+      "Legend": "99 SD & 71 Vertical"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Paint Prodigy",
+    "category": "Finishing",
+    "height": "All",
+    "levels": {
+      "Bronze": "73 Close Shot",
+      "Silver": "84 Close Shot",
+      "Gold": "92 Close Shot",
+      "HOF": "96 Close Shot",
+      "Legend": "99 Close Shot"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Float Game",
+    "category": "Finishing",
+    "height": "All",
+    "levels": {
+      "Bronze": "68 Close Shot or 65 DL",
+      "Silver": "78 Close Shot or 78 DL",
+      "Gold": "86 Close Shot or 88 DL",
+      "HOF": "92 Close Shot or 95 DL",
+      "Legend": "99 Close Shot or 98 DL"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Post Fade Phenom",
+    "category": "Finishing",
+    "height": "All",
+    "levels": {
+      "Bronze": "60 PC & 61 Midrange",
+      "Silver": "70 PC & 71 Midrange",
+      "Gold": "79 PC & 80 Midrange",
+      "HOF": "84 PC & 90 Midrange",
+      "Legend": "90 PC & 96 Midrange"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Challenger",
+    "category": "Defense/Reb/Physical",
+    "height": "Under 7'0\"",
+    "levels": {
+      "Bronze": "71 Perimeter Def.",
+      "Silver": "82 Perimeter Def.",
+      "Gold": "92 Perimeter Def.",
+      "HOF": "95 Perimeter Def.",
+      "Legend": "99 Perimeter Def."
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "On-Ball Menace",
+    "category": "Defense/Reb/Physical",
+    "height": "Under 6'10\"",
+    "levels": {
+      "Bronze": "74 PD + 70 Agility",
+      "Silver": "79 PD & 76 Agility",
+      "Gold": "91 PD & 80 Agility",
+      "HOF": "96 PD & 84 Agility",
+      "Legend": "99 PD & 86 Agility"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Glove",
+    "category": "Defense/Reb/Physical",
+    "height": "Under 7'1\"",
+    "levels": {
+      "Bronze": "67 Steal",
+      "Silver": "79 Steal",
+      "Gold": "91 Steal",
+      "HOF": "96 Steal",
+      "Legend": "99 Steal"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Pick Dodger",
+    "category": "Defense/Reb/Physical",
+    "height": "Under 6'11\"",
+    "levels": {
+      "Bronze": "73 PD & 71 Agility",
+      "Silver": "83 PD & 75 Agility",
+      "Gold": "90 PD & 79 Agility",
+      "HOF": "97 PD & 85 Agility",
+      "Legend": "99 PD & 92 Agility"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Interceptor",
+    "category": "Defense/Reb/Physical",
+    "height": "All",
+    "levels": {
+      "Bronze": "60 Steal",
+      "Silver": "73 Steal",
+      "Gold": "85 Steal",
+      "HOF": "94 Steal",
+      "Legend": "98 Steal"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Post Lockdown",
+    "category": "Defense/Reb/Physical",
+    "height": "At Least 6'5\"",
+    "levels": {
+      "Bronze": "74 Interior Def. & 70 Strength",
+      "Silver": "82 Interior Def. & 78 Strength",
+      "Gold": "88 Interior Def. & 84 Strength",
+      "HOF": "93 Interior Def. & 92 Strength",
+      "Legend": "99 Interior Def. & 97 Strength"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Immovable Enforcer",
+    "category": "Defense/Reb/Physical",
+    "height": "All",
+    "levels": {
+      "Bronze": "62 PD & 71 Strength",
+      "Silver": "72 PD & 82 Strength",
+      "Gold": "84 PD & 85 Strength",
+      "HOF": "89 PD & 91 Strength",
+      "Legend": "94 PD & 92 Strength"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Boxout Beast",
+    "category": "Defense/Reb/Physical",
+    "height": "At Least 6'3\"",
+    "levels": {
+      "Bronze": "55 DREB or OREB",
+      "Silver": "70 DREB or OREB",
+      "Gold": "85 DREB or OREB",
+      "HOF": "94 DREB or OREB",
+      "Legend": "98 DREB or OREB"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Rebound Chaser",
+    "category": "Defense/Reb/Physical",
+    "height": "All",
+    "levels": {
+      "Bronze": "60 DREB or OREB",
+      "Silver": "70 DREB or OREB",
+      "Gold": "82 DREB or OREB",
+      "HOF": "94 DREB or OREB",
+      "Legend": "98 DREB or OREB"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Off-Ball Pest",
+    "category": "Defense/Reb/Physical",
+    "height": "All",
+    "levels": {
+      "Bronze": "69 Interior Def. or 58 PD",
+      "Silver": "76 Interior Def. or 68 PD",
+      "Gold": "85 Interior Def. or 80 PD",
+      "HOF": "92 Interior Def. or 87 PD",
+      "Legend": "97 Interior Def. or 98 PD"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Paint Patroller",
+    "category": "Defense/Reb/Physical",
+    "height": "At Least 6'6\"",
+    "levels": {
+      "Bronze": "60 Interior Def. & 74 Block",
+      "Silver": "70 Interior Def. & 84 Block",
+      "Gold": "84 Interior Def. & 93 Block",
+      "HOF": "94 Interior Def. & 97 Block",
+      "Legend": "99 Interior Def. & 99 Block"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "High-Flying Denier",
+    "category": "Defense/Reb/Physical",
+    "height": "At Least 6'3\"",
+    "levels": {
+      "Bronze": "68 Block & 60 Vertical",
+      "Silver": "78 Block & 74 Vertical",
+      "Gold": "88 Block & 80 Vertical",
+      "HOF": "92 Block & 88 Vertical",
+      "Legend": "99 Block & 85 Vertical"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Pogo Stick",
+    "category": "Defense/Reb/Physical",
+    "height": "At Least 6'4\"",
+    "levels": {
+      "Bronze": "63 Vertical",
+      "Silver": "70 Vertical",
+      "Gold": "77 Vertical",
+      "HOF": "83 Vertical",
+      "Legend": "88 Vertical"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Brick Wall",
+    "category": "Defense/Reb/Physical",
+    "height": "At Least 6'5\"",
+    "levels": {
+      "Bronze": "72 Strength",
+      "Silver": "83 Strength",
+      "Gold": "91 Strength",
+      "HOF": "95 Strength",
+      "Legend": "99 Strength"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  },
+  {
+    "name": "Slippery Off-Ball",
+    "category": "Defense/Reb/Physical",
+    "height": "Under 6'10\"",
+    "levels": {
+      "Bronze": "57 Speed & Agility",
+      "Silver": "73 Speed & 65 Agility",
+      "Gold": "85 Speed & 77 Agility",
+      "HOF": "92 Speed & 88 Agility",
+      "Legend": "99 Speed & 96 Agility"
+    },
+    "status": "verified_secondary",
+    "source": "NBA2KW",
+    "source_url": "https://nba2kw.com/nba-2k26-badge-requirements"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "type": "REP",
+    "requirement": "Rookie V",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "REP",
+    "requirement": "Starter III",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "REP",
+    "requirement": "Starter V",
+    "cap_breakers": "+3",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "REP",
+    "requirement": "Veteran II",
+    "cap_breakers": "+3",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "REP",
+    "requirement": "Legend I",
+    "cap_breakers": "+3",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "CREW",
+    "requirement": "Level 8",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "CREW",
+    "requirement": "Level 15",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "CREW",
+    "requirement": "Level 22",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "CREW",
+    "requirement": "Level 30",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "BUILD SPECIALIZATION",
+    "requirement": "Goal 6",
+    "cap_breakers": "+1; restricted to specialization category or Physicals",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "BUILD SPECIALIZATION",
+    "requirement": "Goal 8",
+    "cap_breakers": "+1; restricted to specialization category or Physicals",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "LIFETIME",
+    "requirement": "100 Goals Completed",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "LIFETIME",
+    "requirement": "200 Goals Completed",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "SEASON",
+    "requirement": "S1 Level 40",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "SEASON",
+    "requirement": "S2 Level 40",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "SEASON",
+    "requirement": "S3 Level 40",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "SEASON",
+    "requirement": "S4 Level 40",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "SEASON",
+    "requirement": "S5 Level 40",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "SEASON",
+    "requirement": "S6 Level 40",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "SEASON",
+    "requirement": "S7 Level 40",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  },
+  {
+    "type": "SEASON",
+    "requirement": "S8 Level 40",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_official",
+    "source_url": "https://newsroom.2k.com/news/nbar-2k26-season-8-dominate-the-offseason"
+  },
+  {
+    "type": "SEASON",
+    "requirement": "S9 Level 40",
+    "cap_breakers": "+1",
+    "confidence": "confirmed_secondary",
+    "source_url": "https://nba2kw.com/nba-2k26-cap-breakers-explained-how-to-unlock-them-all"
+  }
+]

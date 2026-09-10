@@ -1,16 +1,20 @@
-# NBA 2K26 Companion Cloud Database Pack
+# NBA 2K26 Companion — Cloud Master Auto Refresh
 
-Upload the CONTENTS of this folder to the root of your public GitHub repository.
+This is the cloud-side database pack for `mhmmdnrfdy11/nba2k26-companion-data`.
 
-This is the first cloud seed. The Companion should use `manifest.json` as the database manifest, download the JSON datasets into local cache, and never delete user-created builds when syncing.
+## What this fixes
+The old cloud seed contained only a small seed catalog. This repository package adds a GitHub Actions job that rebuilds the master `animations`, `jumpshots`, and `badges` catalogs directly from the public source tables and refuses to commit a partial scrape.
 
-IMPORTANT: this seed contains the currently packaged datasets; it is NOT a claim that every public NBA 2K26 record has already been ingested. The master ingestion pipeline must continue adding and cross-checking public sources.
+Sources:
+- NBA2KW Animation Requirements
+- NBA2KW Jumpshot Requirements
+- NBA2KW Badge Requirements
+- Operation Sports Jumpshot Requirements
+- 2K Newsroom
 
-## Upload
-1. Open your GitHub repository.
-2. Click Add file -> Upload files.
-3. Upload all files/folders from this package.
-4. Commit changes to `main`.
+The companion app can continue using its existing cloud manifest URL. Once this repository is updated, `SYNC CLOUD MASTER NOW` downloads the generated master JSON files.
 
-## Public raw manifest
-https://raw.githubusercontent.com/<YOUR-USER>/<YOUR-REPO>/main/manifest.json
+## Important
+The only unavoidable account-side action is putting these files into the GitHub repository. No GitHub write credential is available to the assistant, so it cannot push into the user's account directly.
+
+After the first upload, GitHub Actions handles the recurring database refresh automatically.

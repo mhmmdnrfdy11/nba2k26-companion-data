@@ -1,0 +1,43 @@
+{
+  "status": "research-in-progress",
+  "policy": "exact-calibration-or-verified-context-only",
+  "verified_rules": [
+    "max 5 applications per attribute",
+    "permanent application",
+    "body hard caps depend on height, weight and wingspan",
+    "highest-rated/strongest attributes can receive +1",
+    "lower-rated attributes can receive larger boosts",
+    "Build Specialization breakers are restricted to the chosen category or Physicals"
+  ],
+  "not_verified": [
+    "universal NBA 2K26 exact per-attribute gain formula",
+    "complete NBA 2K26 rules-engine dump"
+  ],
+  "public_observations": [
+    {
+      "attribute": "Driving Dunk",
+      "start": 76,
+      "end": 88,
+      "applications": 3,
+      "gains": [5,4,3],
+      "context": "community-reported 2K26 guard example; body details must be matched before reuse",
+      "confidence": "observed-secondary"
+    },
+    {
+      "attribute": "Ball Handle",
+      "start": 67,
+      "end": 86,
+      "applications": 5,
+      "gains": null,
+      "context": "public 6'8 185 6'8 build report says 67 -> 86 with cap breakers; exact sequence not published",
+      "confidence": "observed-secondary"
+    }
+  ],
+  "external_references": [
+    {"name":"NBA 2K Support", "url":"https://support.nba2k.com/hc/en-us/articles/44238406830995-NBA-2K26-Cap-Breakers-Return"},
+    {"name":"NBA2KW", "url":"https://nba2kw.com/nba-2k26-myplayer-builder-all-new-features-changes-the-official-breakdown"},
+    {"name":"2KMyPLAYER Builder", "url":"https://2kmyplayer.com/builder"},
+    {"name":"2K27 reverse-engineering dataset (methodology only)", "url":"https://github.com/lightmatmul/nba2k27-builder-dataset"},
+    {"name":"2K26 attribute reverse engineering", "url":"https://github.com/jredh-dev/nba2k26"}
+  ]
+}

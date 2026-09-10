@@ -1,0 +1,11 @@
+{
+  "game": "NBA 2K26",
+  "animation_packages_reference": 748,
+  "animation_requirement_source": "NBA2KW",
+  "jumpshot_sources": [
+    "NBA2KW",
+    "Operation Sports"
+  ],
+  "badges_reference": 40,
+  "note": "748 is the public 2KMyPLAYER package count; detailed requirement rows may be higher due category/height normalization."
+}

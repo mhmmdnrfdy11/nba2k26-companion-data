@@ -1,0 +1,33 @@
+{
+  "version":"V8",
+  "name":"NBA 2K26 Companion — COMPLETE ENGINE PRO",
+  "modules":[
+    "Dashboard",
+    "Build Lab",
+    "Build Forge Pro",
+    "Badge Matrix",
+    "Badge Coach",
+    "Animation Matrix",
+    "Jumpshot Lab",
+    "Jumpshot Creator",
+    "Cap Breaker Evidence Mode",
+    "Build Compare",
+    "Tempo / MS Lab",
+    "MyPLAYER Extras",
+    "Database Sync",
+    "Database Manager",
+    "Data Integrity"
+  ],
+  "build_forge":[
+    "generated data-driven templates",
+    "community builds",
+    "hidden/underrated build flag",
+    "mode-specific stars",
+    "1v1/2v2/3v3/5v5/Rec/Pro-Am fit",
+    "VC cost confidence",
+    "attribute coverage",
+    "double-click build intel"
+  ],
+  "cap_breaker_policy":"EXACT ONLY WHEN BUILD-SCOPED IN-GAME DATA IS CALIBRATED",
+  "data_integrity":["OFFICIAL VERIFIED","CROSS-CHECKED","SECONDARY SOURCE","UNKNOWN"]
+}

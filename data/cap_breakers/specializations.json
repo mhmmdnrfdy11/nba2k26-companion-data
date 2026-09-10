@@ -1,0 +1,72 @@
+{
+  "Finishing": {
+    "requirements":"60 Driving Layup and 60 Driving Dunk OR 60 Close Shot and 60 Standing Dunk",
+    "goals":[
+      [1,"Victory Road","Win 20 Games","Layups/Dunks Skill Boost (10 Games)"],
+      [2,"Rim Runners","Make 200 Close-Range Shots","Finishing Player Banner"],
+      [3,"Honor Roll","Win 50 Games with a Teammate Grade A- or higher","Finishing – In-Game Emote"],
+      [4,"Control the Key","Make 400 Close Range Shots","Finishing Medallion, Finishing Jersey"],
+      [5,"Chasing Greatness","Win 50 Games with 6 or more shots made in the paint in each win","Layups/Dunks Skill Boost (25 Games)"],
+      [6,"Points in the Paint","Make 600 Close-Range Shots","Finishing Cap Breaker"],
+      [7,"Legacy in the Making","Win 100 Games with 6 or more shots made in the paint in each win","Max +1 Finishing, Finishing Archetype Name"],
+      [8,"Inside Job","Make 1,000 Close-Range Shots","Finishing Cap Breaker, Anthony Edwards Jersey"],
+      [9,"Paint Domination","Make 2,000 Close-Range Shots","Max +2 Finishing, Finishing Leg Sleeve"]
+    ]
+  },
+  "Shooting": {
+    "requirements":"60 Mid-Range and 60 3PT Shot",
+    "goals":[
+      [1,"Stacking Dubs","Win 20 Games","Jump Shot Skill Boost (10 Games)"],
+      [2,"Sharpshooter’s Path","Make 100 Mid-Range Shots OR Make 100 3PT Shots","Shooting Player Banner"],
+      [3,"Ace","Win 50 Games with Teammate Grade A- or higher","Shooting In-Game Emote"],
+      [4,"Beyond the Arc","Make 250 Mid-Range Shots OR Make 250 3PT Shots","Shooting Medallion, Shooting Jersey"],
+      [5,"From Downtown","Win 50 Games with 5 or more jumpshots made in each win","Jump Shot Skill Boost (25 Games)"],
+      [6,"In The Zone","Make 500 Mid-Range Shots OR Make 500 3PT Shots","Shooting Cap Breaker"],
+      [7,"Proven Winner","Win 100 Games with 5 or more jump shots made in each win","Max +1 Shooting, Shooting Archetype Name"],
+      [8,"Shooters Shoot","Make 1,000 Mid-Range Shots OR Make 1,000 3PT Shots","Shooting Cap Breaker, Larry Bird Jersey"],
+      [9,"The Net Whisperer","Make 2,000 Mid-Range Shots OR Make 2,000 3PT Shots","Max +2 Shooting, Shooting Arm Sleeve"]
+    ]
+  },
+  "Playmaking": {
+    "requirements":"60 Pass Accuracy and 60 Ball Handle",
+    "goals":[
+      [1,"Earning Your Stripes","Win 20 Games","Ball Handling/Passing Skill Boosts (10 Games)"],
+      [2,"Art of the Assist","Get 200 Assists OR Get 200 Relay Assists","Playmaking Player Banner"],
+      [3,"Professor","Win 50 Games with Teammate Grade A- or higher","Pass Style – Draymond Green"],
+      [4,"Ball Movement Mastery","Get 500 Assists OR Get 500 Relay Assists","Playmaking Medallion, Playmaking Jersey"],
+      [5,"Playmakers Path","Win 50 Games with 5 or more Assists in each win","Ball Handling/Passing Skill Boosts (25 Games)"],
+      [6,"Passing Prodigy","Get 1,000 Assists OR Get 1,000 Relay Assists","Playmaking Cap Breaker"],
+      [7,"Unselfish Greatness","Win 100 Games with 5 or more Assists in each win","Max +1 Playmaking, Playmaking Archetype Name"],
+      [8,"Magic Touch","Get 1,500 Assists OR Get 1,500 Relay Assists","Playmaking Cap Breaker, Tyrese Haliburton Jersey"],
+      [9,"The Floor General","Get 2,000 Assists OR Get 2,000 Relay Assists","Max +2 Playmaking, Playmaking Headband"]
+    ]
+  },
+  "Defense": {
+    "requirements":"60 Perimeter Defense and 60 Steal OR 60 Interior Defense and 60 Block",
+    "goals":[
+      [1,"Winning Formula","Win 20 Games","Steals Skills Boosts (10 Games), Block Skill Boosts (10 Games)"],
+      [2,"Fundamental Defense","Defend 100 Shots Well","Defense Player Banner"],
+      [3,"Top of the Class","Win 50 Games with Teammate Grade A- or higher","Defense In-Game Emote"],
+      [4,"Swipe and Deny","Get 250 Steals OR Get 250 Blocks","Defense Medallion, Defense Jersey"],
+      [5,"The Art of Disruption","Win 50 Games with at least 3 Blocks and Steals Combined in each win","Steals/Blocks Skill Boosts (25 Games)"],
+      [6,"No Easy Buckets","Defend 250 Shots Well","Defense Cap Breaker"],
+      [7,"Defense Wins Championships","Win 100 Games with at least 3 Blocks and Steals Combined in each win","Max +1 Defense, Defense Archetype Name"],
+      [8,"Defensive Playmaker","Get 400 Steals OR Get 400 Blocks","Defense Cap Breaker, Ben Wallace Jersey"],
+      [9,"Lockdown Legend","Defend 1500 Shots Well","Max +2 Defense, Defense Hand Tape"]
+    ]
+  },
+  "Rebounding": {
+    "requirements":"60 Offensive Rebound OR 60 Defensive Rebound",
+    "goals":[
+      [1,"Unstoppable Momentum","Win 20 Games","Rebounding Skill Boosts (10 Games)"],
+      [2,"Relentless Rebounder","Get 200 Rebounds","Rebounding Player Banner"],
+      [3,"Book Worm","Win 50 Games with Teammate Grade A- or higher","Rebounding In-Game Emote"],
+      [4,"Paint Beast Awakens","Get 350 Rebounds","Rebounding Medallion, Rebounding Jersey"],
+      [5,"Crash Conqueror","Win 50 Games with 5 or more Rebounds in each win","Rebounding Skill Boosts (25 Games)"],
+      [6,"Sky Snatcher","Get 600 Rebounds","Rebounding Cap Breaker"],
+      [7,"Grit to Glory","Win 100 Games with 5 or more Rebounds in each win","Max +1 Rebounding, Rebounding Archetype Name"],
+      [8,"Rebound Relic","Get 1,250 Rebounds","Rebounding Cap Breaker, Wilt Chamberlain Jersey"],
+      [9,"Board Boss","Get 2,000 Rebounds","Max +2 Rebounding, Rebounding Elbow Sleeve"]
+    ]
+  }
+}

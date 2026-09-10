@@ -1,0 +1,9 @@
+{
+  "max_per_attribute": 5,
+  "permanent": true,
+  "height_weight_wingspan_can_limit_potential": true,
+  "highest_attributes_gain": 1,
+  "lower_attributes_gain_more": true,
+  "specialization_rule": "Build Specialization Cap Breakers must be applied within the specialization category or Physicals.",
+  "status": "verified_official"
+}
