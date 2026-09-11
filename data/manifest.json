@@ -2,7 +2,7 @@
   "schema_version": 2,
   "game": "NBA 2K26",
   "database_version": "2.0.0",
-  "last_updated": "2026-09-11T11:19:08Z",
+  "last_updated": "2026-09-11T16:27:20Z",
   "status": "AUTO-SOURCE-MASTER",
   "counts": {
     "animations.json": 868,
@@ -70,5 +70,5 @@
   "cloud_manifest_url": "https://raw.githubusercontent.com/mhmmdnrfdy11/nba2k26-companion-data/refs/heads/main/manifest.json",
   "database_mode": "cloud_master_cache",
   "generated_by": "GitHub Actions source refresh",
-  "generated_at": "2026-09-11T11:19:08Z"
+  "generated_at": "2026-09-11T16:27:20Z"
 }
